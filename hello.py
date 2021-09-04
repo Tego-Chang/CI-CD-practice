@@ -2,7 +2,7 @@ def add(x, y):
     return x + y
 
 
-Tego add bad code
+# Tego add bad code
 # x = 1
 # y = 2
 result = add(1, 2)
